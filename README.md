@@ -3,6 +3,7 @@
 > A [Vue.js](https://vuejs.org) plugin for [PIXI.js](https://pixijs.io). Currently it is more a proof of concept that an actual library but it will get there eventually.
 Greatly inspired by [Vue-gl](https://vue-gl.github.io).
 
+
 ## Getting Started
 
 First install the package.
